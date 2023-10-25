@@ -11,6 +11,7 @@
   "slug": "smartdot",
   "description": "Control Petoneer Smart Dot from Home assistant",
   "startup": "before",
+  "init": "false",
   "boot": "auto",
   "host_network": true,
   "map": [
